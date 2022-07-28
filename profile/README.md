@@ -2,9 +2,6 @@
     <h1 align="center">KH</h1>
 </div>
 
-<div align="center">
-    <img src="https://avatars.githubusercontent.com/u/69233167?s=400&u=720d20b3e617ab644d9a9a2264fc7d6a58dde51b&v=4" width="200px">
-</div>
 
 
 <div align=center>
