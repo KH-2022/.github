@@ -12,8 +12,6 @@
 [![Mail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pooreumsunny@gmail.com)](mailto:pooreumsunny@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KH-2022)](https://hits.seeyoufarm.com)
 
----
-
 <details>
  <summary>Member</summary>
  <table>
